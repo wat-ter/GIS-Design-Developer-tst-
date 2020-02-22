@@ -1,2 +1,4 @@
 tortoiseGit 使用教程
 https://www.cnblogs.com/anayigeren/p/10177027.html
+有效解决Github，Tortoisegit下载速度慢、链接意外终止（亲测有效）
+https://blog.csdn.net/qq_35112567/article/details/100130340
